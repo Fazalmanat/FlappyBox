@@ -8,12 +8,6 @@ Flappy Box is a fun twist on the classic Flappy Bird game. Instead of a bird, yo
 - **Pillars rotate the box** instead of causing an instant loss.
 - Simple yet fun physics-based gameplay.
 
-## 🛠️ Installation & Play
-### Play the Built Version
-1. Download the latest build from the **Releases** section.
-2. Extract the files (if needed).
-3. Run the game executable (`FlappyBox.exe` or appropriate file for your OS).
-
 ### Run the Project in Unity
 1. Clone the repository:
    ```sh
